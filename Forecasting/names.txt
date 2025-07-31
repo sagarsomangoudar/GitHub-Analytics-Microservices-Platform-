@@ -1,0 +1,2 @@
+Bucket - lstmbucket_demo
+URL - https://lstmdemo-590108482960.us-central1.run.app
