@@ -1,4 +1,4 @@
-# 📊 GitHub Issue Tracker & Forecasting Platform
+# 📊 GitHub Issue Analytics Microservices Platform
 
 A full-stack cloud-native application that tracks the number of **created and closed issues** for GitHub repositories over the past year and **predicts future trends** using **LSTM + Prophet** time series forecasting. The platform is deployed as three microservices (React, Flask, and ML-based Forecast) using Docker and Google Cloud Run.
 
