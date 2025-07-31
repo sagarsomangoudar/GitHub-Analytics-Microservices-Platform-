@@ -1,0 +1,2 @@
+GITHUB TOKEN - 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
+URL - https://flaskdemo-106523648147.us-central1.run.app
